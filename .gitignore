@@ -1,0 +1,15 @@
+﻿# Compiled class files
+*.class
+
+# NetBeans specific build files
+build/
+dist/
+nbproject/private/
+nbbuild/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# IDE settings
+.vscode/
+.idea/
